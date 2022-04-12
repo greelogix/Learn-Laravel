@@ -33,6 +33,28 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | File Uploads and Storage Folder Basics |:question: [Test Your Laravel File Upload Skills: Complete 7 Tasks](https://www.youtube.com/watch?v=_SrQRnOx3q8)<br>:book: [Filesystem: File Uploads](https://laravel.com/docs/filesystem#file-uploads) <br> :clapper: [Laravel: How to Upload File During User Registration](https://www.youtube.com/watch?v=xyQT2pnv_4E) <br> |
 | Table Pagination |:book: [Database Pagination](https://laravel.com/docs/pagination) <br>|
  
+ 
+## Beginner Level Assignment
+
+
+blades and layout and components
+<br>routes, group routes , namespaces in routes , prefix , app service provider , resource route
+<br>controllers and resource controller , larval validations ,
+<br>migrations , seedings , factories , edit  table migrations and up and down functions difference with commands
+<br>eloquent and models created through commands , custom model , guards and fillable attributes , soft deletes, custom functions 
+
+<br>eloquent relationships
+
+Task 1:
+<br>Add product , edit , delete product and listing products
+<br>Add category , edit , delete category and listing categories
+<br>A categories may have multiple sub categories
+<br>Create both table with migrations
+<br>A product has one category
+<br>route and controller should be resource
+<br>queries perform using relationships and eloquent and validations
+
+
 ## Advanced Beginner Level
 The goal of this level is to find the first job or freelance gig
 
