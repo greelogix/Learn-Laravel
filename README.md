@@ -1,330 +1,122 @@
-# Learn-Laravel  
-This repository contains the **ordered** list of Laravel topics to learn, step-by-step, with related links.
-   
-Task: blades layout (@include, @extends, @section, @yield)<br>
-Description:<br>
-<br>
-Task: components<br>
-Description:<br>
-<br>
-Task: routes<br>
-Description:<br>
-<br>
-Task: routes group<br>
-Description:<br>
-<br>
-Task: routes namespaces<br>
-Description:<br>
-<br>
-Task: routes prefix<br>
-Description:<br>
-<br>
-Task: app service provider<br>
-Description:<br>
-<br>
-Task: resource route controllers<br>
-Description:<br>
-<br>
-Task: resource controller<br>
-Description:<br>
-<br>
-Task: laraval validations<br>
-Description:<br>
-<br>
-Task: migrations<br>
-Description:<br>
-<br>
-Task: seedings<br>
-Description:<br>
-<br>
-Task: factories<br>
-Description:<br>
-<br>
-Task: edit table migrations<br>
-Description:<br>
-<br>
-Task: up down functions difference with commands<br>
-Description:<br>
-<br>
-Task: eloquent models<br>
-Description:<br>
-<br>
-Task: created through commands<br>
-Description:<br>
-<br>
-Task: custom model guards, fillable attributes<br>
-Description:<br>
-<br>
-Task: soft deletes<br>
-Description:<br>
-<br>
-Task: custom model functions<br>
-Description:<br>
-<br>
-Task: Polymorphic relationships<br>
-Description:<br>
-<br>
-Task: Eloquent Relationships: belongsTo / hasMany / belongsToMany<br>
-Description:<br>
-<br>
-Task: Eager Loading and N+1 Query Problem<br>
-Description:<br>
-<br>
-Task: File Uploads and Storage Folder Basics	<br>
-Description:<br>
-<br>
-Task: Table Pagination<br>
-Description:<br>
-<br>
-Task: Auth Basics:<br>
-Description:<br>
-<br>
-Task: Auth Guard<br>
-Description:<br>
-<br>
-Task: Auth: Register / Login / Logout<br>
-Description:<br>
-<br>
-Task: Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)<br>
-Description:<br>
-<br>
-Task: Default Auth Model and Access its Fields from Anywhere<br>
-Description:<br>
-<br>
-Task: Check Auth in Controller / Blade<br>
-Description:<br>
-<br>
-Task: Auth Middleware<br>
-Description:<br>
-<br>
-Task: Route Model Binding<br>
-Description:<br>
-<br>
-Task: Middleware	<br>
-Description:<br>
-<br>
-Task: Create Custom Middleware Class<br>
-Description:<br>
-<br>
-Task: Authorization: Roles/Permissions, Gates, Policies<br>
-Description:<br>
-<br>
-Task: Authorization: Extra Packages - Spatie Permission, Bouncer, etc<br>
-Description:<br>
-<br>
-Task: Authentication: Email Verification<br>
-Description:<br>
-<br>
-Task: API Basics	<br>
-Description:<br>
-<br>
-Task: API Routes and Controllers<br>
-Description:<br>
-<br>
-Task: Working with API Clients: Postman or Alternatives<br>
-Description:<br>
-<br>
-Task: API Eloquent Resources<br>
-Description:<br>
-<br>
-Task: API Auth with Sanctum<br>
-Description:<br>
-<br>
-Task: API Auth with JWT<br>
-Description:<br>
-<br>
-Task: API Error Handling and Status Codes<br>
-Description:<br>
-<br>
-Task: API Pagination<br>
-Description:<br>
-<br>
-Task: API Custom Response<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data and Message<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data, Message and Status Code<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data, Message, Status Code and Headers<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data, Message, Status Code, Headers and Meta<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data, Message, Status Code, Headers, Meta and Links<br>
-Description:<br>
-<br>
-Task: API Custom Response with Data, Message, Status Code, Headers, Meta, Links and Errors<br>
-Description:<br>
-<br>
-Task: Log Files in Laravel<br>
-Description:<br>
-<br>
-Task: Try-Catch and Laravel Exceptions<br>
-Description:<br>
-<br>
-Task: Local Debugging Tools: Debugbar, Telescope, Ray<br>
-Description:<br>
-<br>
-Task: Customizing Error Pages and Messages<br>
-Description:<br>
-<br>
-Task: Sending Email	<br>
-Description:<br>
-<br>
-Task: Mailables and Mail Facade<br>
-Description:<br>
-<br>
-Task: Configure Drivers/Services: Mailgun, Mailtrap, etc<br>
-Description:<br>
-<br>
-Task: Notifications System: Email, SMS, Slack, etc.<br>
-Description:<br>
-<br>
-Task: Deployment and Version Control	<br>
-Description:<br>
-<br>
-Task: Git Version Control<br>
-Description:<br>
-<br>
-Task: Deployment on Live Servers	<br>
-Description:<br>
-<br>
-Task: Route Caching	<br>
-Description:<br>
-<br>
-Task: Rate Limiting<br>
-Description:<br>
-<br>
-Task: Invokable controllers	<br>
-Description:<br>
-<br>
-Task: Model Observers	<br>
-Description:<br>
-<br>
-Task: Raw Database Queries<br>
-Description:<br>
-<br>
-Task: All Eloquent Features<br>
-Description:<br>
-<br>
-1. Increments and Decrements<br>
-Description:<br>
-<br>
-2. XorY methods<br>
-Description:<br>
-<br>
-3. Model boot() method<br>
-Description:<br>
-<br>
-4. Relationship with conditions and ordering<br>
-Description:<br>
-<br>
-5. Find multiple entries<br>
-Description:<br>
-<br>
-6. Order by relationship<br>
-Description:<br>
-<br>
-7. Eloquent::when() – no more if-else’s<br>
-Description:<br>
-<br>
-8. BelongsTo Default Models<br>
-Description:<br>
-<br>
-9. Raw query methods<br>
-Description:<br>
-<br>
-10. Chunk() method for big tables<br>
-Description:<br>
-<br>
-11. Create additional things when creating a model<br>
-Description:<br>
-<br>
-12. Override updated_at when saving<br>
-Description:<br>
-<br>
-13. What is the result of an update()?<br>
-Description:<br>
-<br>
-$result = $products->whereNull('category_id')->update(['category_id' => 2]);<br>
-Description:<br>
-<br>
-14. Transform brackets into an Eloquent query<br>
-Description:<br>
-<br>
-15. where, orWhere with multiple parameters<br>
-Description:<br>
-<br>
-Task: Events and Listeners	<br>
-Description:<br>
-<br>
-Task: Laravel HTTP Client and Guzzle	<br>
-Description:<br>
-<br>
-Task: Creating Artisan Commands	<br>
-Description:<br>
-<br>
-Task: Task Scheduling	<br>
-Description:<br>
-<br>
-Task: Real-time: Broadcasting, Echo and Pusher	<br>
-Description:<br>
-<br>
-Task: Queueable Classes and Jobs	<br>
-Description:<br>
-<br>
-Task: Job Dispatching, Batching and Chaining	<br>
-Description:<br>
-<br>
-Task: Processing Failed Jobs	<br>
-Description:<br>
-<br>
-Task: API Advanced	<br>
-Description:<br>
-<br>
-Task: Upload Files via API<br>
-Description:<br>
-<br>
-Task: Generate API Documentation	<br>
-Description:<br>
-<br>
-Task: API Versioning<br>
-Description:<br>
-<br>
-Task: API with OAuth and Laravel Passport	<br>
-Description:<br>
-<br>
-Task: Only-API Projects with Front-end like Vue.js<br>
-Description:<br>
-<br>
-Task: Only-API Projects with Mobile Apps<br>
-Description:<br>
-<br>
-Task: Payments	<br>
-Description:<br>
-<br>
-Task: Laravel Cashier with Stripe/Paddle<br>
-Description:<br>
-<br>
-Task: Custom Payment Providers: PayPal, Mollie, etc	<br>
-Description:<br>
-<br>
-Task: Laravel Scout	<br>
-Description:<br>
-<br>
-Task: Laravel Packages	<br>
-Description:<br>
-<br>
-Task: Contributing to Packages, making Pull Requests<br>
-Description:<br>
-<br>
-Task: Create Laravel Packages<br>
-Description:<br>
-<br>
+## Introduction to PHP
+
+> Basic introduction to php with sample discussions and learning reference [w3school](https://www.w3schools.com/php/).
+>
+> Solutions linked to content from the `w3school/`.
+
+||||
+|---|---|---|
+| PHP Introduction [w3school](https://www.w3schools.com/php/) | PHP Comments [w3school](https://www.w3schools.com/php/) | PHP Variables [w3school](https://www.w3schools.com/php/) |
+| PHP Echo/ Print/ Print_r [w3school](https://www.w3schools.com/php/) | PHP Data Types [w3school](https://www.w3schools.com/php/) | PHP Strings [w3school](https://www.w3schools.com/php/) |
+| PHP Numbers [w3school](https://www.w3schools.com/php/) | PHP Constants [w3school](https://www.w3schools.com/php/) | PHP Operators [w3school](https://www.w3schools.com/php/) |
+| PHP If...Else...Elseif [w3school](https://www.w3schools.com/php/) | PHP Switch [w3school](https://www.w3schools.com/php/) | PHP Loops [w3school](https://www.w3schools.com/php/) |
+| PHP Functions [w3school](https://www.w3schools.com/php/) | PHP Arrays [w3school](https://www.w3schools.com/php/) | PHP Superglobals [w3school](https://www.w3schools.com/php/) |
+| PHP Forms [w3school](https://www.w3schools.com/php/) | PHP Form Handling [w3school](https://www.w3schools.com/php/) | PHP Form Validation [w3school](https://www.w3schools.com/php/) |
+| PHP Form Required [w3school](https://www.w3schools.com/php/) | PHP Form URL/E-mail [w3school](https://www.w3schools.com/php/) | PHP Date and Time [w3school](https://www.w3schools.com/php/) |
+| PHP Include [w3school](https://www.w3schools.com/php/) | PHP File Handling [w3school](https://www.w3schools.com/php/) | PHP File Open/Read [w3school](https://www.w3schools.com/php/) |
+| PHP File Create/Write [w3school](https://www.w3schools.com/php/) | PHP File Upload [w3school](https://www.w3schools.com/php/) | PHP Cookies [w3school](https://www.w3schools.com/php/) |
+| PHP Sessions [w3school](https://www.w3schools.com/php/) | PHP Callback Functions [w3school](https://www.w3schools.com/php/) | PHP JSON [w3school](https://www.w3schools.com/php/) |
+| PHP Exceptions [w3school](https://www.w3schools.com/php/) | PHP Calendar [w3school](https://www.w3schools.com/php/) | PHP Date [w3school](https://www.w3schools.com/php/) |
+| PHP Timezones [w3school](https://www.w3schools.com/php/) | PHP Directory [w3school](https://www.w3schools.com/php/) ||
+
+
+
+
+## PHP Object Oriented Programming (OOP)
+
+> Basic introduction of OOP in php with sample discussions and learning reference [w3school](https://www.w3schools.com/php/).
+>
+> Solutions linked to content from the `w3school/`.
+
+||||
+|---|---|---|
+| PHP What is OOP [w3school](https://www.w3schools.com/php/) | PHP Classes/Objects [w3school](https://www.w3schools.com/php/) | PHP Constructor [w3school](https://www.w3schools.com/php/) |
+| PHP Destructor [w3school](https://www.w3schools.com/php/) | PHP Access Modifiers [w3school](https://www.w3schools.com/php/) | PHP Inheritance [w3school](https://www.w3schools.com/php/) |
+| PHP Numbers [w3school](https://www.w3schools.com/php/) | PHP Abstract Classes [w3school](https://www.w3schools.com/php/) | PHP Interfaces [w3school](https://www.w3schools.com/php/) |
+| PHP Traits [w3school](https://www.w3schools.com/php/) | PHP Static Methods [w3school](https://www.w3schools.com/php/) | PHP Loops [w3school](https://www.w3schools.com/php/) |
+| PHP Static Properties [w3school](https://www.w3schools.com/php/) | PHP Namespaces  [w3school](https://www.w3schools.com/php/) ||
+
+
+
+
+
+
+## Moderate Topics in PHP
+
+> Moderate level topics in php with sample discussions and learning reference [w3school](https://www.w3schools.com/php/).
+>
+> Solutions linked to content from the `w3school/`.
+
+|||||
+|---|---|---|---|
+| AJAX Intro [w3school](https://www.w3schools.com/php/) | AJAX PHP [w3school](https://www.w3schools.com/php/) | AJAX Database [w3school](https://www.w3schools.com/php/) | AJAX Live Search [w3school](https://www.w3schools.com/php/)
+
+
+
+
+## Introduction to Database in PHP
+
+> Introduction to database in php with sample discussions and learning reference [w3school](https://www.w3schools.com/php/).
+>
+> Solutions linked to content from the `w3school/`.
+
+|||||
+|---|---|---|---|
+| MySQL Database [w3school](https://www.w3schools.com/php/) | MySQL Connect [w3school](https://www.w3schools.com/php/) | MySQL Create DB [w3school](https://www.w3schools.com/php/) | MySQL Create Table [w3school](https://www.w3schools.com/php/)
+| MySQL Insert Data [w3school](https://www.w3schools.com/php/) | MySQL Get Last ID [w3school](https://www.w3schools.com/php/) | MySQL Insert Multiple [w3school](https://www.w3schools.com/php/) | MySQL Prepared [w3school](https://www.w3schools.com/php/)
+| MySQL Select Data [w3school](https://www.w3schools.com/php/) | MySQL Where [w3school](https://www.w3schools.com/php/) | MySQL Order By [w3school](https://www.w3schools.com/php/) | MySQL Delete Data [w3school](https://www.w3schools.com/php/)
+| MySQL Update Data [w3school](https://www.w3schools.com/php/) | MySQL Limit Data  [w3school](https://www.w3schools.com/php/) |
+
+
+
+
+ 
+## Basics of Laravel
+
+> Inroduction to Laravel (8) with sample discussions and learning reference [laravel 8](https://laravel.com/docs/8.x).
+>
+> Solutions linked to content from the `w3school/`.
+
+||||
+|---|---|---|
+| Composer [laravel 8](https://laravel.com/docs/8.x) | Composer Installation [laravel 8](https://laravel.com/docs/8.x) | Laravel Introduction [laravel 8](https://laravel.com/docs/8.x) | Laravel Directory Structure [laravel 8](https://laravel.com/docs/8.x) |
+| Laravel installation [laravel 8](https://laravel.com/docs/8.x) | MVC Framework [laravel 8](https://laravel.com/docs/8.x) | Blade [laravel 8](https://laravel.com/docs/8.x) | Views [laravel 8](https://laravel.com/docs/8.x) |
+| Request Lifecyle [laravel 8](https://laravel.com/docs/8.x) | Routes [laravel 8](https://laravel.com/docs/8.x) | Controller [laravel 8](https://laravel.com/docs/8.x) | Facades [laravel 8](https://laravel.com/docs/8.x) |
+| Migration [laravel 8](https://laravel.com/docs/8.x) | Model [laravel 8](https://laravel.com/docs/8.x) | Middleware [laravel 8](https://laravel.com/docs/8.x) | App Service Provider [laravel 8](https://laravel.com/docs/8.x) |
+| Factory/ Seeder [laravel 8](https://laravel.com/docs/8.x) | Introduction to Jobs and Events [laravel 8](https://laravel.com/docs/8.x) ||
+
+
+
+
+ 
+## Moderate topics in Laravel
+
+> Moderate topics in Laravel (8) with sample discussions and learning reference [laravel 8](https://laravel.com/docs/8.x).
+>
+> Solutions linked to content from the `w3school/`.
+
+|||
+|---|---|
+| Composer installation (globaly/ localy) [laravel 8](https://laravel.com/docs/8.x) | Laravel installation (with or without composer) [laravel 8](https://laravel.com/docs/8.x) |
+| Routes (Callback function, Resource, Post, Get, Group, with or without Namespaces, with or without Names, Route Parameter, Route Optional Parameters) [laravel 8](https://laravel.com/docs/8.x) | Components [laravel 8](https://laravel.com/docs/8.x) |
+| Controller (Callback function, Resource, Namespaces, Constructor, Destructor,Template embed in laravel (Use a Demo Html Template) [laravel 8](https://laravel.com/docs/8.x) | Traits, Facades (Request, Session)) [laravel 8](https://laravel.com/docs/8.x)
+| Migration (up, down, rollback, Schema Facades, Change, Drop, Calling Specific Migration) [laravel 8](https://laravel.com/docs/8.x) | Model (Global Methods, Global Attributes, Global Function, Fillables, Scope) [laravel 8](https://laravel.com/docs/8.x) |
+| Middleware (Types of Middleware, Declaration) [laravel 8](https://laravel.com/docs/8.x) | |
+
+
+## Advance topics in Laravel
+
+> Advance topics in Laravel (8) with sample discussions and learning reference [laravel 8](https://laravel.com/docs/8.x).
+>
+> Solutions linked to content from the `w3school/`.
+
+|||
+|---|---|
+| Eloquent Models [laravel 8](https://laravel.com/docs/8.x) | Eloquent Model Relationship [laravel 8](https://laravel.com/docs/8.x) |
+| Custom model guards, fillable, attributes [laravel 8](https://laravel.com/docs/8.x) | Soft deletes [laravel 8](https://laravel.com/docs/8.x) |
+| Custom model functions [laravel 8](https://laravel.com/docs/8.x) | Polymorphic relationships [laravel 8](https://laravel.com/docs/8.x) |
+| Eloquent Relationships: belongsTo / hasMany / belongsToMany [laravel 8](https://laravel.com/docs/8.x) | File Uploads and Storage Folder Basics [laravel 8](https://laravel.com/docs/8.x) |
+| Auth Basics [laravel 8](https://laravel.com/docs/8.x) | Auth Guard [laravel 8](https://laravel.com/docs/8.x) |
+| Auth: Register / Login / Logout [laravel 8](https://laravel.com/docs/8.x) | Middleware for Admin User and Public User With Separate Dashboard [laravel 8](https://laravel.com/docs/8.x) |
+| Jobs Queues [laravel 8](https://laravel.com/docs/8.x) | Event and Listeners [laravel 8](https://laravel.com/docs/8.x) |
+
