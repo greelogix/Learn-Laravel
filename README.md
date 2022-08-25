@@ -4,6 +4,7 @@
 >
 > Solutions linked to content from the `w3school/`.
 
+
 ||||
 |---|---|---|
 | PHP Introduction [w3school](https://www.w3schools.com/php/php_intro.asp) | PHP Comments [w3school](https://www.w3schools.com/php/php_comments.asp) | PHP Variables [w3school](https://www.w3schools.com/php/php_variables.asp) |
