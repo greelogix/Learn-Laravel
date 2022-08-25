@@ -6,18 +6,18 @@
 
 ||||
 |---|---|---|
-| PHP Introduction [w3school](https://www.w3schools.com/php/) | PHP Comments [w3school](https://www.w3schools.com/php/) | PHP Variables [w3school](https://www.w3schools.com/php/) |
-| PHP Echo/ Print/ Print_r [w3school](https://www.w3schools.com/php/) | PHP Data Types [w3school](https://www.w3schools.com/php/) | PHP Strings [w3school](https://www.w3schools.com/php/) |
-| PHP Numbers [w3school](https://www.w3schools.com/php/) | PHP Constants [w3school](https://www.w3schools.com/php/) | PHP Operators [w3school](https://www.w3schools.com/php/) |
-| PHP If...Else...Elseif [w3school](https://www.w3schools.com/php/) | PHP Switch [w3school](https://www.w3schools.com/php/) | PHP Loops [w3school](https://www.w3schools.com/php/) |
-| PHP Functions [w3school](https://www.w3schools.com/php/) | PHP Arrays [w3school](https://www.w3schools.com/php/) | PHP Superglobals [w3school](https://www.w3schools.com/php/) |
-| PHP Forms [w3school](https://www.w3schools.com/php/) | PHP Form Handling [w3school](https://www.w3schools.com/php/) | PHP Form Validation [w3school](https://www.w3schools.com/php/) |
-| PHP Form Required [w3school](https://www.w3schools.com/php/) | PHP Form URL/E-mail [w3school](https://www.w3schools.com/php/) | PHP Date and Time [w3school](https://www.w3schools.com/php/) |
-| PHP Include [w3school](https://www.w3schools.com/php/) | PHP File Handling [w3school](https://www.w3schools.com/php/) | PHP File Open/Read [w3school](https://www.w3schools.com/php/) |
-| PHP File Create/Write [w3school](https://www.w3schools.com/php/) | PHP File Upload [w3school](https://www.w3schools.com/php/) | PHP Cookies [w3school](https://www.w3schools.com/php/) |
-| PHP Sessions [w3school](https://www.w3schools.com/php/) | PHP Callback Functions [w3school](https://www.w3schools.com/php/) | PHP JSON [w3school](https://www.w3schools.com/php/) |
-| PHP Exceptions [w3school](https://www.w3schools.com/php/) | PHP Calendar [w3school](https://www.w3schools.com/php/) | PHP Date [w3school](https://www.w3schools.com/php/) |
-| PHP Timezones [w3school](https://www.w3schools.com/php/) | PHP Directory [w3school](https://www.w3schools.com/php/) ||
+| PHP Introduction [w3school](https://www.w3schools.com/php/php_intro.asp) | PHP Comments [w3school](https://www.w3schools.com/php/php_comments.asp) | PHP Variables [w3school](https://www.w3schools.com/php/php_variables.asp) |
+| PHP Echo/ Print/ Print_r [w3school](https://www.w3schools.com/php/php_echo_print.asp) | PHP Data Types [w3school](https://www.w3schools.com/php/php_datatypes.asp) | PHP Strings [w3school](https://www.w3schools.com/php/php_string.asp) |
+| PHP Numbers [w3school](https://www.w3schools.com/php/php_numbers.asp) | PHP Constants [w3school](https://www.w3schools.com/php/php_constants.asp) | PHP Operators [w3school](https://www.w3schools.com/php/php_operators.asp) |
+| PHP If...Else...Elseif [w3school](https://www.w3schools.com/php/php_if_else.asp) | PHP Switch [w3school](https://www.w3schools.com/php/php_switch.asp) | PHP Loops [w3school](https://www.w3schools.com/php/php_looping.asp) |
+| PHP Functions [w3school](https://www.w3schools.com/php/php_functions.asp) | PHP Arrays [w3school](https://www.w3schools.com/php/php_arrays.asp) | PHP Superglobals [w3school](https://www.w3schools.com/php/php_superglobals.asp) |
+| PHP Forms [w3school](https://www.w3schools.com/php/php_forms.asp) | PHP Form Handling [w3school](https://www.w3schools.com/php/php_forms.asp) | PHP Form Validation [w3school](https://www.w3schools.com/php/php_form_validation.asp) |
+| PHP Form Required [w3school](https://www.w3schools.com/php/php_form_required.asp) | PHP Form URL/E-mail [w3school](https://www.w3schools.com/php/php_form_required.asp) | PHP Date and Time [w3school](https://www.w3schools.com/php/php_date.asp) |
+| PHP Include [w3school](https://www.w3schools.com/php/php_includes.asp) | PHP File Handling [w3school](https://www.w3schools.com/php/php_file.asp) | PHP File Open/Read [w3school](https://www.w3schools.com/php/php_file_open.asp) |
+| PHP File Create/Write [w3school](https://www.w3schools.com/php/php_file_create.asp) | PHP File Upload [w3school](https://www.w3schools.com/php/php_file_upload.asp) | PHP Cookies [w3school](https://www.w3schools.com/php/php_cookies.asp) |
+| PHP Sessions [w3school](https://www.w3schools.com/php/php_sessions.asp) | PHP Callback Functions [w3school](https://www.w3schools.com/php/php_callback_functions.asp) | PHP JSON [w3school](https://www.w3schools.com/php/php_json.asp) |
+| PHP Exceptions [w3school](https://www.w3schools.com/php/php_exceptions.asp) | PHP Calendar [w3school](https://www.w3schools.com/php/php_ref_calendar.asp) | PHP Date [w3school](https://www.w3schools.com/php/php_ref_date.asp) |
+| PHP Timezones [w3school](https://www.w3schools.com/php/php_ref_timezones.asp) | PHP Directory [w3school](https://www.w3schools.com/php/php_ref_directory.asp) ||
 
 
 
@@ -30,11 +30,11 @@
 
 ||||
 |---|---|---|
-| PHP What is OOP [w3school](https://www.w3schools.com/php/) | PHP Classes/Objects [w3school](https://www.w3schools.com/php/) | PHP Constructor [w3school](https://www.w3schools.com/php/) |
-| PHP Destructor [w3school](https://www.w3schools.com/php/) | PHP Access Modifiers [w3school](https://www.w3schools.com/php/) | PHP Inheritance [w3school](https://www.w3schools.com/php/) |
-| PHP Numbers [w3school](https://www.w3schools.com/php/) | PHP Abstract Classes [w3school](https://www.w3schools.com/php/) | PHP Interfaces [w3school](https://www.w3schools.com/php/) |
-| PHP Traits [w3school](https://www.w3schools.com/php/) | PHP Static Methods [w3school](https://www.w3schools.com/php/) | PHP Loops [w3school](https://www.w3schools.com/php/) |
-| PHP Static Properties [w3school](https://www.w3schools.com/php/) | PHP Namespaces  [w3school](https://www.w3schools.com/php/) ||
+| PHP What is OOP [w3school](https://www.w3schools.com/php/php_oop_what_is.asp) | PHP Classes/Objects [w3school](https://www.w3schools.com/php/php_oop_classes_objects.asp) | PHP Constructor [w3school](https://www.w3schools.com/php/php_oop_constructor.asp) |
+| PHP Destructor [w3school](https://www.w3schools.com/php/php_oop_destructor.asp) | PHP Access Modifiers [w3school](https://www.w3schools.com/php/php_oop_access_modifiers.asp) | PHP Inheritance [w3school](https://www.w3schools.com/php/php_oop_inheritance.asp) |
+| PHP Numbers [w3school](https://www.w3schools.com/php/php_numbers.asp) | PHP Abstract Classes [w3school](https://www.w3schools.com/php/php_oop_classes_abstract.asp) | PHP Interfaces [w3school](https://www.w3schools.com/php/php_oop_interfaces.asp) |
+| PHP Traits [w3school](https://www.w3schools.com/php/php_oop_traits.asp) | PHP Static Methods [w3school](https://www.w3schools.com/php/php_oop_static_methods.asp) | PHP Loops [w3school](https://www.w3schools.com/php/php_looping.asp) |
+| PHP Static Properties [w3school](https://www.w3schools.com/php/php_oop_static_properties.asp) | PHP Namespaces  [w3school](https://www.w3schools.com/php/php_namespaces.asp) ||
 
 
 
@@ -49,7 +49,7 @@
 
 |||||
 |---|---|---|---|
-| AJAX Intro [w3school](https://www.w3schools.com/php/) | AJAX PHP [w3school](https://www.w3schools.com/php/) | AJAX Database [w3school](https://www.w3schools.com/php/) | AJAX Live Search [w3school](https://www.w3schools.com/php/)
+| AJAX Intro [w3school](https://www.w3schools.com/php/php_ajax_intro.asp) | AJAX PHP [w3school](https://www.w3schools.com/php/php_ajax_php.asp) | AJAX Database [w3school](https://www.w3schools.com/php/php_ajax_database.asp) | AJAX Live Search [w3school](https://www.w3schools.com/php/php_ajax_livesearch.asp)
 
 
 
@@ -62,10 +62,10 @@
 
 |||||
 |---|---|---|---|
-| MySQL Database [w3school](https://www.w3schools.com/php/) | MySQL Connect [w3school](https://www.w3schools.com/php/) | MySQL Create DB [w3school](https://www.w3schools.com/php/) | MySQL Create Table [w3school](https://www.w3schools.com/php/)
-| MySQL Insert Data [w3school](https://www.w3schools.com/php/) | MySQL Get Last ID [w3school](https://www.w3schools.com/php/) | MySQL Insert Multiple [w3school](https://www.w3schools.com/php/) | MySQL Prepared [w3school](https://www.w3schools.com/php/)
-| MySQL Select Data [w3school](https://www.w3schools.com/php/) | MySQL Where [w3school](https://www.w3schools.com/php/) | MySQL Order By [w3school](https://www.w3schools.com/php/) | MySQL Delete Data [w3school](https://www.w3schools.com/php/)
-| MySQL Update Data [w3school](https://www.w3schools.com/php/) | MySQL Limit Data  [w3school](https://www.w3schools.com/php/) |
+| MySQL Database [w3school](https://www.w3schools.com/php/php_mysql_intro.asp) | MySQL Connect [w3school](https://www.w3schools.com/php/php_mysql_connect.asp) | MySQL Create DB [w3school](https://www.w3schools.com/php/php_mysql_create.asp) | MySQL Create Table [w3school](https://www.w3schools.com/php/php_mysql_create_table.asp)
+| MySQL Insert Data [w3school](https://www.w3schools.com/php/php_mysql_insert.asp) | MySQL Get Last ID [w3school](https://www.w3schools.com/php/php_mysql_insert_lastid.asp) | MySQL Insert Multiple [w3school](https://www.w3schools.com/php/php_mysql_insert_multiple.asp) | MySQL Prepared [w3school](https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
+| MySQL Select Data [w3school](V) | MySQL Where [w3school](https://www.w3schools.com/php/php_mysql_select_where.asp | MySQL Order By [w3school](https://www.w3schools.com/php/php_mysql_select_orderby.asp) | MySQL Delete Data [w3school](https://www.w3schools.com/php/php_mysql_delete.asp)
+| MySQL Update Data [w3school](https://www.w3schools.com/php/php_mysql_update.asp) | MySQL Limit Data  [w3school](https://www.w3schools.com/php/php_mysql_select_limit.asp) |
 
 
 
@@ -79,11 +79,11 @@
 
 ||||
 |---|---|---|
-| Composer [laravel 8](https://getcomposer.org/doc/00-intro.md) | Composer Installation [laravel 8](https://getcomposer.org/download/) | Laravel Introduction [laravel 8](https://laravel.com/docs/8.x) | Laravel Directory Structure [laravel 8](https://laravel.com/docs/8.x/structure) |
-| Laravel installation [laravel 8](https://laravel.com/docs/8.x/installation) | MVC Framework [laravel 8](https://blog.pusher.com/laravel-mvc-use/#:~:text=MVC%20is%20a%20software%20architecture%E2%80%A6that%20separates%20domain%2Fapplication%2F,and%20data%20of%20the%20application.) | Blade [laravel 8](https://laravel.com/docs/8.x/blade#main-content) | Views [laravel 8](https://laravel.com/docs/8.x/views#main-content) |
-| Request Lifecyle [laravel 8](https://laravel.com/docs/8.x/lifecycle#main-content) | Routes [laravel 8](https://laravel.com/docs/8.x/routing#basic-routing) | Controller [laravel 8](https://laravel.com/docs/8.x/controllers#main-content) | Facades [laravel 8](https://laravel.com/docs/8.x/facades#main-content) |
-| Migration [laravel 8](https://laravel.com/docs/8.x/migrations#main-content) | Model [laravel 8](https://laravel.com/docs/8.x/eloquent#generating-model-classes) | Middleware [laravel 8](https://laravel.com/docs/8.x/middleware#main-content) | App Service Provider [laravel 8](https://laravel.com/docs/8.x/lifecycle#service-providers) |
-| Factory/ Seeder [laravel 8](https://laravel.com/docs/8.x/seeding#using-model-factories) | Introduction to Jobs [laravel 8](https://laravel.com/docs/8.x/queues#creating-jobs) |Introduction to Events [laravel 8](https://laravel.com/docs/8.x/events#main-content)|
+| Composer [laravel 8](https://laravel.com/docs/8.x) | Composer Installation [laravel 8](https://laravel.com/docs/8.x) | Laravel Introduction [laravel 8](https://laravel.com/docs/8.x) | Laravel Directory Structure [laravel 8](https://laravel.com/docs/8.x) |
+| Laravel installation [laravel 8](https://laravel.com/docs/8.x) | MVC Framework [laravel 8](https://laravel.com/docs/8.x) | Blade [laravel 8](https://laravel.com/docs/8.x) | Views [laravel 8](https://laravel.com/docs/8.x) |
+| Request Lifecyle [laravel 8](https://laravel.com/docs/8.x) | Routes [laravel 8](https://laravel.com/docs/8.x) | Controller [laravel 8](https://laravel.com/docs/8.x) | Facades [laravel 8](https://laravel.com/docs/8.x) |
+| Migration [laravel 8](https://laravel.com/docs/8.x) | Model [laravel 8](https://laravel.com/docs/8.x) | Middleware [laravel 8](https://laravel.com/docs/8.x) | App Service Provider [laravel 8](https://laravel.com/docs/8.x) |
+| Factory/ Seeder [laravel 8](https://laravel.com/docs/8.x) | Introduction to Jobs and Events [laravel 8](https://laravel.com/docs/8.x) ||
 
 
 
@@ -97,11 +97,11 @@
 
 |||
 |---|---|
-| Composer installation (globaly/ localy) [laravel 8](https://getcomposer.org/download/) | Laravel installation (with or without composer) [laravel 8](https://laravel.com/docs/8.x/#main-content) |
-| Routes (Callback function, Resource, Post, Get, Group, with or without Namespaces, with or without Names, Route Parameter, Route Optional Parameters) [laravel 8](https://laravel.com/docs/8.x/routing#basic-routing) | Components [laravel 8](https://laravel.com/docs/8.x/blade#components) |
-| Controller (Callback function, Resource, Namespaces, Constructor, Destructor,Template embed in laravel (Use a Demo Html Template) [laravel 8](https://laravel.com/docs/8.x/controllers#main-content) | Traits, Facades (Request, Session)) [laravel 8](https://laravel.com/docs/8.x/notifications#using-the-notifiable-trait)
-| Migration (up, down, rollback, Schema Facades, Change, Drop, Calling Specific Migration) [laravel 8](https://laravel.com/docs/8.x/migrations#main-content) | Model (Global Methods, Global Attributes, Global Function, Fillables, Scope) [laravel 8](https://laravel.com/docs/8.x/eloquent#generating-model-classes) |
-| Middleware (Types of Middleware, Declaration) [laravel 8](https://laravel.com/docs/8.x/middleware#main-content) | |
+| Composer installation (globaly/ localy) [laravel 8](https://laravel.com/docs/8.x) | Laravel installation (with or without composer) [laravel 8](https://laravel.com/docs/8.x) |
+| Routes (Callback function, Resource, Post, Get, Group, with or without Namespaces, with or without Names, Route Parameter, Route Optional Parameters) [laravel 8](https://laravel.com/docs/8.x) | Components [laravel 8](https://laravel.com/docs/8.x) |
+| Controller (Callback function, Resource, Namespaces, Constructor, Destructor,Template embed in laravel (Use a Demo Html Template) [laravel 8](https://laravel.com/docs/8.x) | Traits, Facades (Request, Session)) [laravel 8](https://laravel.com/docs/8.x)
+| Migration (up, down, rollback, Schema Facades, Change, Drop, Calling Specific Migration) [laravel 8](https://laravel.com/docs/8.x) | Model (Global Methods, Global Attributes, Global Function, Fillables, Scope) [laravel 8](https://laravel.com/docs/8.x) |
+| Middleware (Types of Middleware, Declaration) [laravel 8](https://laravel.com/docs/8.x) | |
 
 
 ## Advance topics in Laravel
@@ -112,10 +112,10 @@
 
 |||
 |---|---|
-| Eloquent Models [laravel 8](https://laravel.com/docs/8.x/eloquent#generating-model-classes) | Eloquent Model Relationship [laravel 8](https://laravel.com/docs/8.x/eloquent-relationships) |
-| Custom model guards, fillable, attributes [laravel 8](https://laravel.com/docs/8.x/authentication#adding-custom-guards) | Soft deletes [laravel 8](https://laravel.com/docs/8.x/eloquent#soft-deleting) |
-| Custom model functions [laravel 8](https://www.nicesnippets.com/blog/laravel-custom-function-in-model) | Polymorphic relationships [laravel 8](https://laravel.com/docs/8.x/eloquent-relationships#polymorphic-relationships) |
-| Eloquent Relationships: belongsTo / hasMany / belongsToMany [laravel 8](https://laravel.com/docs/9.x/eloquent-relationships) | File Uploads and Storage Folder Basics [laravel 8](https://laravel.com/docs/8.x/filesystem#file-uploads) |
+| Eloquent Models [laravel 8](https://laravel.com/docs/8.x) | Eloquent Model Relationship [laravel 8](https://laravel.com/docs/8.x) |
+| Custom model guards, fillable, attributes [laravel 8](https://laravel.com/docs/8.x) | Soft deletes [laravel 8](https://laravel.com/docs/8.x) |
+| Custom model functions [laravel 8](https://laravel.com/docs/8.x) | Polymorphic relationships [laravel 8](https://laravel.com/docs/8.x) |
+| Eloquent Relationships: belongsTo / hasMany / belongsToMany [laravel 8](https://laravel.com/docs/8.x) | File Uploads and Storage Folder Basics [laravel 8](https://laravel.com/docs/8.x) |
 | Auth Basics [laravel 8](https://laravel.com/docs/8.x) | Auth Guard [laravel 8](https://laravel.com/docs/8.x) |
 | Auth: Register / Login / Logout [laravel 8](https://laravel.com/docs/8.x) | Middleware for Admin User and Public User With Separate Dashboard [laravel 8](https://laravel.com/docs/8.x) |
 | Jobs Queues [laravel 8](https://laravel.com/docs/8.x) | Event and Listeners [laravel 8](https://laravel.com/docs/8.x) |
