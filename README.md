@@ -8,7 +8,7 @@
 ||||
 |---|---|---|
 | PHP Introduction [w3school](https://www.w3schools.com/php/php_intro.asp) | PHP Comments [w3school](https://www.w3schools.com/php/php_comments.asp) | PHP Variables [w3school](https://www.w3schools.com/php/php_variables.asp) |
-| PHP Echo/ Print/ Print_r [w3school](https://www.w3schools.com/php/php_echo_print.asp) | PHP Data Types [w3school](https://www.w3schools.com/php/php_datatypes.asp) | PHP Strings [w3school](https://www.w3schools.com/php/php_string.asp) |
+| PHP Echo/ Print/ Print_r [w3school](https://www.w3schools.com/php/php_echo_print.asp) | PHP Data Types [w3school](https://www.w3schools.com/php/php_datatypes.asp) | PHP Strings Operations [w3school](https://www.w3schools.com/php/php_string.asp) |
 | PHP Numbers [w3school](https://www.w3schools.com/php/php_numbers.asp) | PHP Constants [w3school](https://www.w3schools.com/php/php_constants.asp) | PHP Operators [w3school](https://www.w3schools.com/php/php_operators.asp) |
 | PHP If...Else...Elseif [w3school](https://www.w3schools.com/php/php_if_else.asp) | PHP Switch [w3school](https://www.w3schools.com/php/php_switch.asp) | PHP Loops [w3school](https://www.w3schools.com/php/php_looping.asp) |
 | PHP Functions [w3school](https://www.w3schools.com/php/php_functions.asp) | PHP Arrays [w3school](https://www.w3schools.com/php/php_arrays.asp) | PHP Superglobals [w3school](https://www.w3schools.com/php/php_superglobals.asp) |
